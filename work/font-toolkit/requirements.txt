@@ -1,0 +1,6 @@
+# 必需
+fonttools>=4.40
+brotli>=1.0          # WOFF2 读写
+
+# 可选（仅 Windows 上 verify 的 .NET 验证方式需要；无法安装时自动回退 fontTools 验证）
+pythonnet>=3.0 ; sys_platform == "win32"

@@ -1,0 +1,5 @@
+__pycache__/
+*.ttf
+*.otf
+*.woff
+*.woff2

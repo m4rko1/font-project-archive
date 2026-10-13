@@ -1,0 +1,103 @@
+{
+  "total_chars": 15431,
+  "batch_size": 1300,
+  "num_batches": 12,
+  "results": [
+    {
+      "batch": 0,
+      "chars_range": "0-1300",
+      "char_count": 1300,
+      "file": "tearsfont_batch_000_0_1300.woff",
+      "size": 193196,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=83c1f36cb0a10c2ed619d6cfc4a4950b&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 1,
+      "chars_range": "1300-2600",
+      "char_count": 1300,
+      "file": "tearsfont_batch_001_1300_2600.woff",
+      "size": 228436,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=fa50ca4fa2848e6a56985f89fd30565d&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 2,
+      "chars_range": "2600-3900",
+      "char_count": 1300,
+      "file": "tearsfont_batch_002_2600_3900.woff",
+      "size": 204364,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=af08410822d78d39b9ed6394840d7cf0&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 3,
+      "chars_range": "3900-5200",
+      "char_count": 1300,
+      "file": "tearsfont_batch_003_3900_5200.woff",
+      "size": 234136,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=997bcb32bbeca90acf0bf987de8c629d&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 4,
+      "chars_range": "5200-6500",
+      "char_count": 1300,
+      "file": "tearsfont_batch_004_5200_6500.woff",
+      "size": 216688,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=a5f3976a2b3f3bed020dacdf4239c487&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 5,
+      "chars_range": "6500-7800",
+      "char_count": 1300,
+      "file": "tearsfont_batch_005_6500_7800.woff",
+      "size": 218992,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=3de757b9a3234eca20daf13d7ecf7491&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 6,
+      "chars_range": "7800-9100",
+      "char_count": 1300,
+      "file": "tearsfont_batch_006_7800_9100.woff",
+      "size": 235132,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=f92f84c76ee02161baaaf044ed43732e&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 7,
+      "chars_range": "9100-10400",
+      "char_count": 1300,
+      "file": "tearsfont_batch_007_9100_10400.woff",
+      "size": 184296,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=40de190d2658e3fcb261cb68608ce305&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 8,
+      "chars_range": "10400-11700",
+      "char_count": 1300,
+      "file": "tearsfont_batch_008_10400_11700.woff",
+      "size": 201040,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=62652eccb4fff0da58a49e8ba427d7f3&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 9,
+      "chars_range": "11700-13000",
+      "char_count": 1300,
+      "file": "tearsfont_batch_009_11700_13000.woff",
+      "size": 190380,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=ccd7a6fa1a03c07f02f55f835744d876&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 10,
+      "chars_range": "13000-14300",
+      "char_count": 1300,
+      "file": "tearsfont_batch_010_13000_14300.woff",
+      "size": 178784,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=bf321fbb9575217a8053de7c61f9c96e&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    },
+    {
+      "batch": 11,
+      "chars_range": "14300-15431",
+      "char_count": 1131,
+      "file": "tearsfont_batch_011_14300_15431.woff",
+      "size": 143284,
+      "url": "https://cdn-go.justfont.com/file/jfont.woff?k=3617605e7386913df3c354014b65ff5a&n=tearsfont&o=https%3A%2F%2Fjustfont.com&p=58317"
+    }
+  ]
+}
